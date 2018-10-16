@@ -1,4 +1,5 @@
-# auth-app
+# Vue Authentication App
+
 
 ## Project setup
 ```
