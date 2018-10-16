@@ -1,4 +1,5 @@
 # Vue Authentication App
+This is a practice project
 
 
 ## Project setup
